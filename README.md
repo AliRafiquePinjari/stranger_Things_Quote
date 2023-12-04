@@ -1,6 +1,3 @@
-# stranger_Things_Quote
-
-
 # Stranger Things Quotes Website
 
 ## Overview
